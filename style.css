@@ -132,3 +132,92 @@ footer {
 	text-align: center;
 	margin-top: 50px;
 }
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: sans-serif;
+    font-family: 'Chonburi', cursive;
+}
+.cabecalho{
+    background-image: linear-gradient(#c6c7cc,#1f54db);
+    
+    
+}
+
+.cabecalho-titulo1{
+    color: rgb(247, 20, 20);
+    display: flex;
+    justify-content: flex-start;
+    text-align: center;
+}
+
+.cabecalho-lista{
+    color: white;
+    display: flex;
+    justify-content: flex-end;    
+}
+
+.cabecalho-lista-item1{
+    color: white;
+    padding: 20px;
+    margin-right: 5px;
+     
+
+}
+.cabecalho-lista-item2{
+    color: white;
+    padding: 20px;
+    margin-left: 5px;
+ 
+
+}
+.cabecalho-titulo2{
+    border: 5px solid; 
+    border-color: white;
+    color: rgb(30, 212, 6);
+    display: flex;
+    font-size: 30px;
+    padding-left: 100px;
+    
+}
+
+.sobremim{
+    background-image: linear-gradient(#c6c7cc,#1f54db);
+    padding: 70px;
+}
+
+.paragrafo-sobremim{
+    padding: 20px 70px;
+}
+
+.socios{
+    
+    background-image: linear-gradient(#193705,#a1a7b6);
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: sans;
+    font-family: 'Chonburi', cursive;
+    
+}
+
+.titulo-socios-torcedores{
+    padding:50px 100px 50px 50px;
+
+}
+
+.div-maior{
+    display: grid;
+    grid-template-columns: 40% 25% 25% 25%;
+    
+    justify-content: center;
+    padding: 0;
+
+}
+
+.titulo-socios-torcedores{
+    text-align: justify;
+    flex-wrap: wrap;
