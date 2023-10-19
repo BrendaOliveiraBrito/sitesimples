@@ -3,13 +3,13 @@
     display: flex;
     justify-content: center;
     text-align: center;
-    background-color: green;
+    background-color: rgb(238, 221, 183);
   }
   main {
     padding: 20px 0px;
     display: flex;
     justify-content: space-around;
-    background-color: yellowgreen;
+    background-color: rgb(205, 151, 216);
   }
   section, aside {
     width: 45%;
@@ -17,17 +17,17 @@
   section header {
     padding: 10px;
     text-align: center;
-    background-color: orange;
+    background-color: rgb(252, 255, 82);
   }
   section div {
     padding: 10px;
     text-align: center;
-    background-color: yellow;
+    background-color: rgb(247, 124, 226);
   }
   aside header {
     padding: 10px;
     text-align: center;
-    background-color: orange;
+    background-color: rgba(92, 197, 43, 0.363);
   }
   aside div {
     padding: 10px;
