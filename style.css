@@ -42,7 +42,7 @@ nav li a:hover{
 }
 .banner{
     height: 100vh;
-    background: linear-gradient( rgba(110, 71, 71, 0.281), rgba(143, 81, 81, 0.308)),url('Donuts.jpg');
+    background: linear-gradient( rgba(110, 71, 71, 0.281), rgba(240, 109, 109, 0.308)),url('Donuts.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
