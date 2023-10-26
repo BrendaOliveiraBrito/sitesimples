@@ -6,7 +6,7 @@
     font-family: 'Poppins', sans-serif;
 }
 nav{
-    background-color: #ec467d;
+    background-color: #ffffff;
     padding: 15px 50px;
     display: flex;
     justify-content: space-between;
@@ -142,13 +142,13 @@ body{
     font-family: 'Chonburi', cursive;
 }
 .cabecalho{
-    background-image: linear-gradient(#c6c7cc,#1f54db);
+    background-image: linear-gradient(#c6c7cc,#bd5cb5);
     
     
 }
 
 .cabecalho-titulo1{
-    color: rgb(229, 143, 143);
+    color: rgb(255, 249, 249);
     display: flex;
     justify-content: flex-start;
     text-align: center;
@@ -177,7 +177,7 @@ body{
 .cabecalho-titulo2{
     border: 5px solid; 
     border-color: white;
-    color: rgb(30, 212, 6);
+    color: rgb(255, 255, 255);
     display: flex;
     font-size: 30px;
     padding-left: 100px;
@@ -185,7 +185,7 @@ body{
 }
 
 .sobremim{
-    background-image: linear-gradient(#c6c7cc,#1f54db);
+    background-image: linear-gradient(#c6c7cc,#c4d3f8);
     padding: 70px;
 }
 
